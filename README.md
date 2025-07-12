@@ -1,2 +1,2 @@
 # testrepo
-This is a git hub refresha cause
+This is a git hub refresha course
